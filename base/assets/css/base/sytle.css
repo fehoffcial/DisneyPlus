@@ -1,0 +1,7 @@
+@import url("/DisneyPlus/base/css/base/_reset.css");
+@import url("/DisneyPlus/base/assets/css/base/_fonts.css");
+html, body{
+    width: 100%;
+    height: 100%;
+    background-color: aqua;
+}
